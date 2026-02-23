@@ -1,7 +1,6 @@
 # Jean // SRE & Platform Engineer
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=System%20Override:%20Jean&fontSize=70&animation=fadeIn&fontAlignY=35)
-
+![reversal](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jean%20Carlos&textBg=true&animation=fadeIn&fontAlign=30&fontSize=30&desc=SRE%20Engineer&descAlign=60&descAlignY=50)
 ![SRE Validation](https://github.com/jcsgg/jcsgg/actions/workflows/lint.yml/badge.svg)
 
 > **EN**: SRE Specialist focused on scalable infrastructure and automation.
@@ -9,7 +8,7 @@
 
 ---
 
-## 🛠️ Technical Expertise | Expertise Técnica
+## Technical Expertise | Expertise Técnica
 
 - **Infrastructure:** `Kubernetes` | `Docker` | `Helm` | `Terraform`
 - **Networking & Security:** `Cilium (eBPF)` | `Calico` | `SonarQube`
@@ -19,7 +18,7 @@
 
 ---
 
-## 🚀 Impact Projects | Projetos de Impacto
+## Impact Projects | Projetos de Impacto
 
 ### **Observability Modernization**
 
@@ -33,20 +32,20 @@
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Refining SRE practices for global scale.
 - Advanced studies in Kubernetes Networking and Service Mesh.
 
 ---
 
-## 📡 System Diagnostics (GitHub Metrics)
+## System Diagnostics (GitHub Metrics)
 
 ![Metrics](https://metrics.lecoq.io/jcsgg?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo)
 
 ---
 
-## 📫 Connectivity | Conectividade
+## Connectivity | Conectividade
 
 - **Shell:** `fish`
 - **OS:** `Arch Linux`
