@@ -1,11 +1,11 @@
 # Jean // SRE & Platform Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=%20Jean%20Carlos&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=System%20Override:%20Jean&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 ![SRE Validation](https://github.com/jcsgg/jcsgg/actions/workflows/lint.yml/badge.svg)
 
-> **EN**: SRE Specialist focused on scalable infrastructure, observability, and automation.
-> **PT**: Especialista SRE focado em infraestrutura escalável, observabilidade e automação.
+> **EN**: SRE Specialist focused on scalable infrastructure and automation.
+> **PT**: Especialista SRE focado em infraestrutura escalável e automação.
 
 ---
 
@@ -28,12 +28,12 @@
 
 ### **DevSecOps Implementation**
 
-- Automated static analysis gates using **SonarQube** integrated into GitLab pipelines.
-- Standardization of deployments using **Helm Charts** and Infrastructure as Code (IaC).
+- Automated static analysis gates using **SonarQube** in GitLab pipelines.
+- Standardization of deployments using **Helm Charts** and IaC.
 
 ---
 
-## 📈 Current Focus:
+## 📈 Current Focus
 
 - Refining SRE practices for global scale.
 - Advanced studies in Kubernetes Networking and Service Mesh.
@@ -42,9 +42,7 @@
 
 ## 📡 System Diagnostics (GitHub Metrics)
 
-<p align="left">
-  <img src="https://metrics.lecoq.io/jcsgg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=America%2FSao_Paulo" width="100%" alt="Metrics" />
-</p>
+![Metrics](https://metrics.lecoq.io/jcsgg?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo)
 
 ---
 
