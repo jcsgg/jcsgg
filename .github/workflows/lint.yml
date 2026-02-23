@@ -1,4 +1,4 @@
-﻿name: Profile Validation
+name: Profile Validation
 
 on:
   push:
