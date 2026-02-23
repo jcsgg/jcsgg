@@ -1,0 +1,30 @@
+﻿name: Profile Validation
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Markdownlint
+        run: npm install -g markdownlint-cli
+
+      - name: Run Markdownlint
+        run: markdownlint README.md
+
+      - name: Security Scan (Secrets Detection)
+        uses: trufflesecurity/trufflehog@main
+        with:
+          extra_args: --results=verified

@@ -1,52 +1,60 @@
-# ⚡ JEAN // SRE & DEVOPS ENGINEER 🕶️
+# Jean // SRE & Platform Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=System%20Override:%20Jean&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header&text=%20Jean%20Carlos&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-> **INTP** | **Linux Enthusiast (Arch/Debian)** | **Gotta go fast** 🦔
+![SRE Validation](https://github.com/jcsgg/jcsgg/actions/workflows/lint.yml/badge.svg)
 
----
-
-### 📡 System Diagnostics (GitHub Stats)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcsgg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsgg&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+> **EN**: SRE Specialist focused on scalable infrastructure, observability, and automation.
+> **PT**: Especialista SRE focado em infraestrutura escalável, observabilidade e automação.
 
 ---
 
-### 🛠️ The Tech Grid (Arsenal)
+## 🛠️ Technical Expertise | Expertise Técnica
 
 - **Infrastructure:** `Kubernetes` | `Docker` | `Helm` | `Terraform`
 - **Networking & Security:** `Cilium (eBPF)` | `Calico` | `SonarQube`
 - **Observability:** `Prometheus` | `Grafana` | `Loki` | `Zabbix`
-- **Automation:** `GitLab CI` | `Ansible` | `Fish Shell 🐟`
-- **Development:** `Next.js` | `TypeScript` | `Tailwind CSS`
+- **CI/CD & Automation:** `GitLab CI` | `Ansible` | `Python/Shell Scripts`
+- **Systems:** `Linux (Arch/Debian)` | `Cloud Native Architectures`
 
 ---
 
-### 📂 Active Mission Logs (Main Projects)
+## 🚀 Impact Projects | Projetos de Impacto
 
-#### 🚀 [The Neon Grid](link-do-seu-repo)
-Implementação de cluster K8s focado em **eBPF (Cilium)** e observabilidade leve com **Loki**.
-`Kubernetes` `Cilium` `Loki` `Helm`
+### **Observability Modernization**
 
-#### 🛡️ [DevSecOps Pipeline](link-do-seu-repo)
-Automação de análise estática e qualidade de código integrada ao GitLab.
-`GitLab CI` `SonarQube` `Docker`
+- Lead the migration from ELK stack to **Loki**, optimizing resources by 40%.
+- Implementation of **Cilium CNI** with Hubble for deep network visibility.
 
----
+### **DevSecOps Implementation**
 
-### 📼 Mission Status: Paris 2026 🇫🇷
-- **Current Objective:** Mastering SRE at scale & Learning French.
-- **Interests:** Retrowave Aesthetics | Synthwave | Retro Gaming | Kart Racing.
-- **Daily Driver:** Arch Linux + Fish Shell.
+- Automated static analysis gates using **SonarQube** integrated into GitLab pipelines.
+- Standardization of deployments using **Helm Charts** and Infrastructure as Code (IaC).
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrergel/andrergel/master/assets/retro-banner.gif" width="400" />
+## 📈 Current Focus:
+
+- Refining SRE practices for global scale.
+- Advanced studies in Kubernetes Networking and Service Mesh.
+
+---
+
+## 📡 System Diagnostics (GitHub Metrics)
+
+<p align="left">
+  <img src="https://metrics.lecoq.io/jcsgg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=America%2FSao_Paulo" width="100%" alt="Metrics" />
 </p>
 
+---
+
+## 📫 Connectivity | Conectividade
+
+- **Shell:** `fish`
+- **OS:** `Arch Linux`
+- **Objective:** Reliability, Scalability, and Performance.
+
 ```bash
-echo "Connection established. Welcome to the grid."
+# SRE mindset: If it's not automated, it's broken.
+ansible-playbook optimize_world.yml
 ```
